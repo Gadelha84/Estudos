@@ -42,7 +42,11 @@
                     <ul>
                         <li><a href="/exercicio.php?dir=variaveis&file=basico">Variáveis</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Dasafio Equação</a></li>
-                        <li><a href="#">Exercício C</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variáveis variáveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis">Desafio variáveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">Valor vs Referência</a></li>
                     </ul>
                 </div>
                 <div class="modulo roxo">
