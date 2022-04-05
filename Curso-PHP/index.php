@@ -38,7 +38,7 @@
                     </ul>
                 </div>
                 <div class="modulo azul">
-                    <h3>Modulo 03</h3>
+                    <h3>Variáveis</h3>
                     <ul>
                         <li><a href="/exercicio.php?dir=variaveis&file=basico">Variáveis</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Dasafio Equação</a></li>
@@ -47,14 +47,15 @@
                         <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variáveis variáveis</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis">Desafio variáveis</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">Valor vs Referência</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=constantes">Constantes</a></li>
                     </ul>
                 </div>
                 <div class="modulo roxo">
-                    <h3>Modulo 04</h3>
+                    <h3>Controle</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício B</a></li>
-                        <li><a href="#">Exercício C</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=if_else">If Else</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Operadores Relacionais</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_pi">Desafio Pi</a></li>
                     </ul>
                 </div>
                 <div class="modulo laranja">
