@@ -1,7 +1,7 @@
 <div class="titulo">Operadores Lógicos</div>
 
 <?php
-echo "<p>V ou F</p><hr/>";
+echo "<p class='divisao'>V ou F</p><hr/>";
 var_dump(true);
 echo "<br/>";
 var_dump(!true); //not
@@ -34,8 +34,8 @@ echo "<br/>";
 var_dump(false xor false);
 
 echo "<p class='divisao'>Exemplo</p><hr/>";
-$idade = 67;
-$sexo = 'F';
+$idade = 65;
+$sexo = 'M';
 
 $previdencia = true;
 $aposentadoria = $previdencia &&
@@ -50,7 +50,7 @@ if($idade >= 60 && $sexo === 'F')
 }
 elseif ($idade >= 65 && $sexo === 'M')
 {
-    echo 'Pode se aposentar';
+    echo "Pode se aposentar -> $sexo";
 }
 else 
 { 
